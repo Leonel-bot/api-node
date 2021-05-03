@@ -1,9 +1,0 @@
-POST http://localhost:3001/api/notes/
-Content-Type: application/json
-Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6IlN0aWNrZmlndXJlIiwiaWQiOiI2MDhjMzlmYTJlMjBmMzAzMTQ4ODlhMDUiLCJpYXQiOjE2MTk4MjY4NzMsImV4cCI6MTYyMDQzMTY3M30.n1v4Gg0VuMcWBBqKu0VQA7zeg7gaiHPIsNOEaqqrmXA
-
-{
-    "title" : "Primera nota de node",
-    "description" : "Description de nota node",
-    "userId" : "608c39fa2e20f30314889a05"
-}
